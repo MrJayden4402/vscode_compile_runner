@@ -1,0 +1,4 @@
+mingw64\
+//C:\Program Files (x86)\Dev-Cpp\MinGW64\
+//E:\vscode编译启动器\mingw64\
+//这里填写编译器路径(MinGW64的路径)
