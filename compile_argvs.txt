@@ -3,6 +3,3 @@
 -static-libstdc++
 -static
 -lpthread
-
--L
-D:\RGBTools\OpenRGB\build
